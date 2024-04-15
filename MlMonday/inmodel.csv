@@ -1,0 +1,19 @@
+﻿Question;Answer
+Vad är artificiell intelligens?;Artificiell intelligens är vetenskapen om att göra maskiner kapabla att utföra uppgifter som kräver mänsklig intelligens.
+Vad är maskininlärning?;Maskininlärning är en tillämpning av artificiell intelligens som ger systemen förmågan att automatiskt lära sig och förbättra från erfarenhet.
+Vad är djupinlärning?;Djupinlärning är en underkategori av maskininlärning som använder nätverk kapabla att lära sig från stora mängder oetiketterade data.
+Hur skiljer sig AI från traditionell programmering?;Traditionell programmering involverar explicita instruktioner till datorn, medan AI använder data och algoritmer för att efterlikna hur människor lär sig.
+Vilka är de vanligaste användningsområdena för AI?;De vanligaste användningsområdena inkluderar taligenkänning, bildigenkänning, beslutsfattande och automatisk textgenerering.
+Är AI en fara för mänskligheten?;Debatten är bred, men många experter betonar vikten av ansvarsfull utveckling och användning av AI för att säkerställa positiva utfall.
+Kan AI ersätta mänskliga jobb?;AI har potentialen att automatisera vissa uppgifter, men kan också skapa nya jobb och förbättra produktiviteten inom många yrken.
+Vad är en neural nätverk?;Ett neuralt nätverk är en serie av algoritmer som efterliknar den mänskliga hjärnans funktioner för att känna igen mönster i stora datamängder.
+Hur fungerar maskininlärning?;Maskininlärning fungerar genom att bygga en modell från exempeldata för att göra förutsägelser eller beslut utan att vara explicit programmerad för att utföra uppgiften.
+Vad är en algoritm inom AI?;Inom AI är en algoritm en uppsättning regler eller instruktioner som ges till en AI-modell för att hjälpa den att lära sig från data och göra beslut eller förutsägelser.
+Vad menas med "supervised learning"?;Supervised learning är en maskininlärningsteknik där modellen tränas på en fördefinierad uppsättning data (med både indata och önskade utdata) för att kunna göra förutsägelser.
+Vad är "unsupervised learning"?;Unsupervised learning är en typ av maskininlärning där algoritmer tränas på datamängder utan förutbestämda etiketter, låtande modellen identifiera mönster och relationer på egen hand.
+Kan AI skapa konst?;Ja, AI kan skapa konst genom att använda algoritmer som analyserar konstverk för att generera nya verk som efterliknar stilar av befintliga konstnärer eller skapar helt unika stilar.
+Vad är Turingtestet?;Turingtestet är ett test för att bedöma en maskins förmåga till intelligent beteende som är omöjligt att skilja från en människas beteende, föreslaget av Alan Turing.
+Vad är datavetenskap?;Datavetenskap är ett tvärvetenskapligt fält som använder vetenskapliga metoder, processer, algoritmer och system för att utvinna kunskap och insikter från strukturerade och ostrukturerade data.
+Hur påverkar AI ekonomin?;AI har potentialen att avsevärt förbättra effektiviteten och produktiviteten inom olika sektorer, vilket kan leda till ekonomisk tillväxt och nya affärsmöjligheter.
+Är AI intelligens densamma som mänsklig intelligens?;Nej, AI-intelligens simulerar vissa aspekter av mänsklig intelligens men saknar den medvetenhet och de emotionella erfarenheter som människor har.
+Vad är förstärkningsinlärning?;Förstärkningsinlärning är en typ av maskininlärning där en agent lär sig att fatta beslut genom att utföra handlingar i en miljö för att maximera någon form av belöning eller minimering av straff.
